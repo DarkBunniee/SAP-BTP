@@ -86,5 +86,5 @@ SAP BTP provides a comprehensive set of tools for building, integrating, and aut
 For more details, visit the [SAP BTP Documentation](https://help.sap.com/viewer/product/BTP/).
 
 ---
-**Author:** [Himanshu Hada]  
-**Date:** [YYYY-MM-DD]
+**Author:** Himanshu Hada  
+**Date:** 2025-03-06
